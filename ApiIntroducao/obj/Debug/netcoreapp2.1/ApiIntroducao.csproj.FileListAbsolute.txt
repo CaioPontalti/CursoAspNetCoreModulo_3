@@ -1,0 +1,14 @@
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\bin\Debug\netcoreapp2.1\ApiIntroducao.deps.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\bin\Debug\netcoreapp2.1\ApiIntroducao.runtimeconfig.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\bin\Debug\netcoreapp2.1\ApiIntroducao.runtimeconfig.dev.json
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\bin\Debug\netcoreapp2.1\ApiIntroducao.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\bin\Debug\netcoreapp2.1\ApiIntroducao.pdb
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\obj\Debug\netcoreapp2.1\ApiIntroducao.csprojAssemblyReference.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\obj\Debug\netcoreapp2.1\ApiIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\obj\Debug\netcoreapp2.1\ApiIntroducao.RazorAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\obj\Debug\netcoreapp2.1\ApiIntroducao.RazorAssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\obj\Debug\netcoreapp2.1\ApiIntroducao.AssemblyInfoInputs.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\obj\Debug\netcoreapp2.1\ApiIntroducao.AssemblyInfo.cs
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\obj\Debug\netcoreapp2.1\ApiIntroducao.RazorTargetAssemblyInfo.cache
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\obj\Debug\netcoreapp2.1\ApiIntroducao.dll
+C:\Users\cvalmeida\Documents\Visual Studio 2017\Projects\Curso Asp.Net Core\Modulo 3\Modulo 3_ApiIntrodução\ApiIntroducao\obj\Debug\netcoreapp2.1\ApiIntroducao.pdb
